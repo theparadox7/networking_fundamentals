@@ -25,4 +25,9 @@ This repository is a comprehensive collection of notes and resources dedicated t
 
 Embark on your networking journey by exploring the repository. Whether you're a student, a professional, or someone curious about networking, this repository is designed to empower your understanding of networking fundamentals.
 
-Happy learning!
+Good Luck!
+
+      --The Unknown Paradox
+
+
+       
